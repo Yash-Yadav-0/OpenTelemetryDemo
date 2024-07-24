@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\database\\coffeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\database\\coffeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\database\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\database\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\diagnosticsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\diagnosticsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F7FE04-DA2F-4862-A3D4-A612D8165F17}|docker-compose.dcproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27F7FE04-DA2F-4862-A3D4-A612D8165F17}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\coffeeshop.api\\coffeeshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39C9AF31-ADC5-4022-BFF6-6A4BEDED48AD}|CoffeeShop.Api\\CoffeeShop.Api.csproj|solutionrelative:coffeeshop.api\\coffeeshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F7FE04-DA2F-4862-A3D4-A612D8165F17}|docker-compose.dcproj|e:\\vscodeprojects\\fintechsolutions\\opentelemetry.introduction\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27F7FE04-DA2F-4862-A3D4-A612D8165F17}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeType.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Database\\CoffeeType.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\Database\\CoffeeType.cs",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Database\\CoffeeType.cs",
+              "RelativeToolTip": "CoffeeShop.Api\\Database\\CoffeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:55:03.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeShopDbContext.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Database\\CoffeeShopDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\Database\\CoffeeShopDbContext.cs",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Database\\CoffeeShopDbContext.cs",
+              "RelativeToolTip": "CoffeeShop.Api\\Database\\CoffeeShopDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:37:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\appsettings.json",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\appsettings.json",
+              "RelativeToolTip": "CoffeeShop.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T05:13:27.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-24T04:37:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiagnosticsConfig.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\DiagnosticsConfig.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\DiagnosticsConfig.cs",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\DiagnosticsConfig.cs",
+              "RelativeToolTip": "CoffeeShop.Api\\DiagnosticsConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:12:15.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\Program.cs",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Program.cs",
+              "RelativeToolTip": "CoffeeShop.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:12:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeShop.Api.csproj",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\CoffeeShop.Api.csproj",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\CoffeeShop.Api.csproj",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\CoffeeShop.Api.csproj",
+              "RelativeToolTip": "CoffeeShop.Api\\CoffeeShop.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T04:51:24.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-24T04:37:00.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "CoffeeShop.Api\\Dockerfile",
+              "ToolTip": "E:\\VsCodeProjects\\FintechSolutions\\OpenTelemetry.Introduction\\CoffeeShop.Api\\Dockerfile",
+              "RelativeToolTip": "CoffeeShop.Api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-24T04:36:54.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
